@@ -4,4 +4,4 @@
 * **Jose David Chinchilla**
 
 ## Basic usage
-Import the function `pascalTriangleLevel` 
+todo
