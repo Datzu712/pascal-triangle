@@ -10,14 +10,5 @@ export function bNewton(n: number, k: number) {
         // Operaciones
         const divided = dividendo / divisor2; // (n! / (n - k)!) / k!
         return Math.round(divided / divisor1);
-        
-
-        // var dividendo1 = factorial(m);
-        // var divisor1 = factorial(m - n);
-        // var divisor = factorial(n);
-        // var dividendo = dividendo1 / divisor1; n! / (n - k)!
-        // var combinacion = Math.round(dividendo / divisor);
-        // return combinacion;
-
     } else return 0;
 }
